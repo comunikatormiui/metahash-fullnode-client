@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20210114
 MAINTAINER metahash
 EXPOSE 9999 9999
 WORKDIR /opt/mhservice
